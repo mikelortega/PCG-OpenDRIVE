@@ -3817,7 +3817,7 @@ function animate() {
 
 function main() {
 
-	var map = new Map(scene, "../data/Crossing8Course.xodr");
+	var map = new Map(scene, "https://mikelortega.github.io/PCG-OpenDRIVE/data/Crossing8Course.xodr");
 
 	var maps = {
 		Crossing8Course: 'Crossing8Course.xodr',
